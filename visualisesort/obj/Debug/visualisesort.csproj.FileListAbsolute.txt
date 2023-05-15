@@ -1,0 +1,11 @@
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\bin\Debug\visualisesort.exe.config
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\bin\Debug\visualisesort.exe
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\bin\Debug\visualisesort.pdb
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\obj\Debug\visualisesort.csproj.AssemblyReference.cache
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\obj\Debug\visualisesort.csproj.SuggestedBindingRedirects.cache
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\obj\Debug\visualisesort.Form1.resources
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\obj\Debug\visualisesort.Properties.Resources.resources
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\obj\Debug\visualisesort.csproj.GenerateResource.cache
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\obj\Debug\visualisesort.csproj.CoreCompileInputs.cache
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\obj\Debug\visualisesort.exe
+C:\Users\zakir\OneDrive\Desktop\obj-detection\visualisesort\visualisesort\obj\Debug\visualisesort.pdb
